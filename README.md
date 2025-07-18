@@ -1,2 +1,7 @@
 # daily_market_updates
-Sends the indexs perfomance (NSE and BSE) for the day as a message to registered mobile device.
+📊 Indian Market Update
+
+🟢 NIFTY 50 📈
+🔴 BSE SENSEX 📉
+
+💡 Daily market update delivered automatically to mobile every evening
